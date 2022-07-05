@@ -8,8 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "algoliasearch": "^4.13.1",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-instantsearch-hooks-web": "^6.29.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
